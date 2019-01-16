@@ -1,6 +1,6 @@
 # Redux-Redux-Thunk Example
 
-This project is created to accompany my Medium's Blog [Post].(https://medium.com/@peatiscoding/typescripts-with-redux-redux-thunk-recipe-fcce4ffca405).
+This project is created to accompany my Medium's Blog [Post](https://medium.com/@peatiscoding/typescripts-with-redux-redux-thunk-recipe-fcce4ffca405).
 
 The project aim to illustrate how to use [Redux-Thunk](https://github.com/reduxjs/redux-thunk) along with [TypeScript](https://www.typescriptlang.org/) language.
 
